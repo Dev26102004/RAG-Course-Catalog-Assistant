@@ -1,0 +1,111 @@
+# 📘 RAG-Based Course Catalog Assistant – Writeup
+
+## 1. Introduction
+
+In this project, I built a Retrieval-Augmented Generation (RAG) system to answer questions related to a university course catalog. The goal of the system is to retrieve relevant information from documents and generate accurate, structured responses using a language model.
+
+This project helped me understand how retrieval systems and language models can work together to provide grounded and reliable answers.
+
+---
+
+## 2. Approach
+
+The system is designed using three main components:
+
+### a) Data Collection
+
+A dataset was created consisting of:
+
+* Course catalog pages (CS and Math courses)
+* Program requirement documents
+* Academic policies
+
+These documents were stored as PDF/TXT files and used as the knowledge base.
+
+---
+
+### b) Retrieval System
+
+* The documents were split into smaller chunks
+* Embeddings were generated using a sentence transformer model
+* FAISS was used to store and retrieve relevant chunks based on similarity search
+
+---
+
+### c) RAG Pipeline
+
+* The user query is passed to the retriever
+* Relevant documents are retrieved
+* The context is sent to the language model
+* The model generates a structured response including:
+
+  * Answer
+  * Explanation (Why)
+  * Citations
+  * Clarifying questions
+  * Assumptions
+
+---
+
+## 3. Evaluation
+
+### Test Setup
+
+* Total Queries: 25
+* Types of queries:
+
+  * Direct factual questions
+  * Eligibility-based queries
+  * Course planning questions
+  * Edge cases (missing information)
+
+---
+
+### Results
+
+* Answer Accuracy: 56%
+* Citation Coverage: 100%
+* Abstention Accuracy: 100%
+
+---
+
+### Observations
+
+* The system performs well on direct factual queries
+* Accuracy decreases for:
+
+  * paraphrased queries
+  * multi-step reasoning questions
+* The system successfully avoids hallucination by abstaining when information is not available
+
+---
+
+## 4. Challenges
+
+* Difficulty in handling paraphrased queries
+* Retrieval failures for some questions
+* Limited support for multi-step reasoning
+* Interpreting program requirements correctly
+
+---
+
+## 5. Future Improvements
+
+* Improve query understanding using query expansion
+* Add multi-hop reasoning capability
+* Enhance retriever performance
+* Use a larger and more diverse dataset
+
+---
+
+## 6. Conclusion
+
+This project demonstrates a working RAG-based system that can answer course-related queries effectively using retrieved context.
+
+The system ensures reliability by:
+
+* grounding responses in documents
+* providing citations
+* avoiding hallucinated answers
+
+Overall, this project highlights both the strengths and limitations of retrieval-based AI systems in real-world applications.
