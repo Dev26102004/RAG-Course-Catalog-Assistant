@@ -139,12 +139,13 @@ adv_rag.query("What are prerequisites for CS310?")
 
 ```
 project/
-├── dataset/
-├── src/
-├── evaluation/
-│   └── evaluation_results_auto.csv
+├── data/
+|   └── evaluation_results_auto.csv
+|   └── pdfs
+├── notebook/
 ├── README.md
 ├── requirements.txt
+├──writeup.pdf
 ```
 
 ---
