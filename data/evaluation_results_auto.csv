@@ -1,0 +1,367 @@
+index,question,answer,confidence,time_sec
+1,What are prerequisites for CS310?,"To enroll in CS 310 — Programming Languages, the prerequisites are CS 201 AND CS 250.
+
+Why: The prerequisites for CS 310 are explicitly stated in the provided catalog as CS 201 AND CS 250.
+
+Citations:
+- CS310_Programming_Languages.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs310
+Clarifying Questions: Are there any additional requirements or recommendations for students enrolling in CS 310?
+
+Assumptions: The student has met the prerequisites and has a basic understanding of programming concepts.",0.405,0.58
+2,Can I take CS310 after CS201 only?,"To enroll in CS 310 — Programming Languages, you cannot take it after CS 201 only.
+
+Why: The prerequisites for CS 310 are CS 201 AND CS 250, indicating that both courses must be completed before enrolling in CS 310.
+
+Citations:
+- CS310_Programming_Languages.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs310
+Clarifying Questions: 
+- Are you assuming that you have already completed CS 250?
+- Have you taken any other courses that may be equivalent to CS 201 or CS 250?
+
+Assumptions: 
+- You have already completed CS 201, but not CS 250.
+- You are not aware of any other courses that may be equivalent to CS 201 or CS 250.",0.384,0.49
+3,What do I need before CS320?,"To enroll in CS 320 — Systems Programming, you need to have completed CS 210 and CS 220.
+
+Why: The course catalog specifies that CS 320 has prerequisites of CS 210 and CS 220, which indicates that students must have completed these courses before enrolling in CS 320.
+
+Citations:
+- CS320_Systems_Programming.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs320
+Clarifying Questions:
+- Are you currently enrolled in CS 210 and CS 220, or do you plan to take them in the future?
+- Have you met the minimum grade requirement for CS 210, as it is not specified in the catalog for CS 220?
+
+Assumptions:
+- You are a student in the Computer Science department at Techstate University.
+- You have access to the course catalog and are aware of the prerequisites for CS 320.",0.366,0.88
+4,Is CS201 required for CS310?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
+5,Can I take CS320 after CS210?,"To enroll in CS 320 — Systems Programming, you must first complete the prerequisites, which include CS 210 and CS 220.
+
+Answer / Plan: You can take CS 320 after completing CS 210 and CS 220.
+Why: The course catalog specifies that CS 210 and CS 220 are the prerequisites for CS 320.
+Citations:
+- CS320_Systems_Programming.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs320
+Clarifying Questions: Have you completed CS 210 and CS 220 with a minimum grade of C? Are you planning to take CS 220 concurrently with CS 320?
+Assumptions: You have met the minimum grade requirement for CS 210 and CS 220, and you are not planning to take CS 220 concurrently with CS 320.",0.399,0.56
+6,What courses are required before CS371?,"To enroll in CS 371 — Advanced Software Engineering, students must first complete the required prerequisites.
+
+Answer / Plan: CS 240 AND CS 260.
+Why: The prerequisites for CS 371 are CS 240 AND CS 260, with a minimum grade of C- for CS 260.
+Citations:
+- CS371_Advanced_Software_Engineering.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs371
+Clarifying Questions: Are there any other courses that can be taken concurrently with CS 371, or are there any specific course sequences that are recommended?
+Assumptions: Students have met the minimum grade requirements for CS 240 and CS 260.",0.568,0.41
+7,Do I need CS250 for CS310?,"To enroll in CS 310 — Programming Languages, you need to have completed CS 201 AND CS 250 as prerequisites.
+
+Why: The course catalog explicitly states that CS 310 requires CS 201 AND CS 250 as prerequisites.
+
+Citations:
+- CS310_Programming_Languages.pdf (Page 0)
+Clarifying Questions:
+- Are you currently enrolled in CS 201 or CS 250, or have you completed them in the past?
+- Have you checked the course schedule to ensure that CS 310 is offered during the desired semester?
+
+Assumptions:
+- You have reviewed the course catalog and understand the prerequisites for CS 310.
+- You are aware of the course schedule and offerings for the desired semester.",0.407,0.4
+8,Can I enroll in CS210 without CS101?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
+9,What are prerequisites for CS210?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+- CS320_Systems_Programming.pdf (Page 0)
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",0.343,0.53
+10,Is CS102 required for CS210?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
+11,What path should I follow to take CS310?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.05
+12,What courses should I complete before advanced CS courses?,"To enroll in CS 101 — Introduction to Programming, CS 240, and CS 260, you should complete these courses before advancing to more advanced CS courses.
+
+Why: 
+These courses are prerequisites for more advanced courses such as CS 371 — Advanced Software Engineering, which requires a minimum grade of C- in CS 260. Additionally, CS 101 is a foundational course that provides a solid introduction to programming, while CS 240 and CS 260 are essential for understanding software engineering concepts.
+
+Citations:
+- CS371_Advanced_Software_Engineering.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs371
+- CS_program_requirements.pdf (Page 1)
+- CS101_Introduction_to_Programming.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs101
+Clarifying Questions:
+- Are you planning to pursue a degree in Computer Science?
+- Have you completed any programming courses prior to CS 101?
+
+Assumptions:
+- You are a new student in the Computer Science program.
+- You have not previously taken any programming courses.",0.377,0.68
+13,What is the sequence of courses before CS371?,"To enroll in CS 371 — Advanced Software Engineering, a student must first complete the prerequisites. 
+
+The prerequisites for CS 371 are CS 240 and CS 260, with a minimum grade of C- for CS 260. 
+
+Therefore, the sequence of courses before CS 371 would be CS 240 and CS 260.
+
+Answer / Plan: CS 240 AND CS 260
+Why: The prerequisites for CS 371 are CS 240 and CS 260, with a minimum grade of C- for CS 260.
+Citations:
+- CS371_Advanced_Software_Engineering.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs371
+Clarifying Questions: Are there any other courses that can be taken concurrently with CS 240 and CS 260?
+Assumptions: The student has met the minimum grade requirement for CS 260.",0.341,0.39
+14,How to reach CS320 starting from CS101?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
+15,What is required before taking Machine Learning course?,"To enroll in the Machine Learning Foundations course (CS 351), a student must complete the following prerequisites:
+
+A student must have completed the required course, ""Mathematics for Computer Science"" (6.1200[J]), and the required course, ""Introduction to Algorithms"" (6.1210). Alternatively, with permission from the instructor, a student can substitute either of these prerequisites.
+
+Why: The course catalog explicitly lists the required prerequisites for CS 351, which include completing the required courses, ""Mathematics for Computer Science"" (6.1200[J]) and ""Introduction to Algorithms"" (6.1210), or obtaining permission from the instructor to substitute either of these prerequisites.
+
+Citations:
+- CS351_Machine_Learning_Foundations.pdf (Page 0)
+- MIT_6_1220_design_analysis_algorithms.pdf (Page 0)
+Clarifying Questions:
+- Are there any additional requirements or recommendations for students who wish to take CS 351?
+- Can a student who has not completed the required prerequisites but has relevant work experience or other relevant qualifications still take CS 351 with instructor permission?
+
+Assumptions:
+- The student has access to the course catalog and is aware of the prerequisites for CS 351.
+- The student understands the requirements for obtaining permission from the instructor to substitute a prerequisite.",0.399,6.93
+16,What are requirements for Computer Science degree?,"To enroll in the Computer Science B.S. degree program at TechState University, a student must complete a minimum of 128 credit hours. This includes:
+
+The student must complete all required core courses, a designated concentration, a senior capstone, and a set of electives.
+
+Why: The program requirements are outlined in the catalog to ensure students meet the necessary academic standards for the degree.
+
+Citations:
+- CS_program_requirements.pdf (Page 0)
+  https://catalog.techstate.edu/programs/cs-bs-2024
+- CS_program_requirements.pdf (Page 1)
+Clarifying Questions:
+- What is the minimum GPA required to graduate from the Computer Science program?
+- Are there any additional requirements for students who wish to pursue a concentration in a specific area of computer science?
+
+Assumptions:
+- The student is a degree-seeking student in the Computer Science program at TechState University.
+- The student has met the university's general education requirements.",0.446,7.64
+17,How many credits are needed for CS program?,"Answer / Plan:
+To enroll in a typical CS program, a student would need to complete a total of 15 credits of CS courses.
+
+Why:
+This is based on the assumption that the student will take a combination of core and elective courses. The core courses typically include CS 201, CS 240, CS 250, CS 260, and CS 210, which add up to 15 credits.
+
+Citations:
+- CS_program_requirements.pdf (Page 1)
+Clarifying Questions:
+- Are there any additional requirements for the CS program, such as a capstone course or a research project?
+- Are there any other elective courses that a student can choose from to fulfill the 15-credit requirement?
+
+Assumptions:
+- The student has already completed the prerequisite courses for the chosen CS courses.
+- The student is taking the courses in the order that they are listed, with no gaps in between.
+- The student is meeting the minimum grade requirements for the courses, such as a C- in CS 260.",0.539,6.82
+18,What core courses are required for CS degree?,"To enroll in the core courses required for the CS degree, I recommend the following plan:
+
+Answer / Plan:
+CS 351, CS 371, CS 374, CS 361, and CS 362.
+
+Why:
+Based on the provided catalog, CS 351 is mandatory for the Systems and Security (15 credits) track. Additionally, CS 371 is a prerequisite for CS 375, which is listed as an elective. To fulfill the Systems and Security track, we need to choose CS 361 and CS 362, which are prerequisites for each other. Since CS 374 is listed as an elective, we can choose it to fulfill the remaining elective requirement.
+
+Citations:
+- CS371_Advanced_Software_Engineering.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs371
+- CS_program_requirements.pdf (Page 1)
+Clarifying Questions:
+- Are there any other requirements or restrictions for the CS degree that may impact course selection?
+- Are there any other tracks or specializations within the CS degree that may have different course requirements?
+
+Assumptions:
+- The student is pursuing the CS degree with the Systems and Security (15 credits) track.
+- The student has met the prerequisites for the chosen courses.
+- The student is aware of any additional requirements or restrictions for the CS degree.",0.441,6.69
+19,Are electives required in CS program?,"To enroll in the CS program, electives are not strictly required, but rather optional, as students may choose to take any courses at the 200-level or above to satisfy the elective requirement.
+
+Why: The provided catalog states that students may take any courses at the 200-level or above to satisfy the elective requirement, indicating that electives are not mandatory.
+
+Citations:
+- CS_program_requirements.pdf (Page 2)
+- CS_program_requirements.pdf (Page 1)
+- CS320_Systems_Programming.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs320
+Clarifying Questions:
+- Are there any specific requirements for the number of elective credits that must be completed?
+- Are there any restrictions on the types of courses that can be taken as electives?
+
+Assumptions:
+- Students are enrolled in the CS program and are seeking to fulfill the elective requirement.
+- The provided catalog is up-to-date and accurate.",0.358,8.57
+20,What math courses are required for CS?,"To enroll in the required math courses for CS majors, students must complete the following:
+
+MATH 151: Calculus I (4 credits) and MATH 152: Calculus II (4 credits).
+
+Why: These two courses are explicitly stated as required mathematics requirements for all CS majors, with MATH 151 having no prerequisite and MATH 152 requiring MATH 151 as a prerequisite.
+
+Citations:
+- CS_program_requirements.pdf (Page 0)
+- CS250_Theory_of_Computation.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs250
+Clarifying Questions:
+- Are there any additional math courses required beyond MATH 151 and MATH 152?
+- Are there any specific math courses required for the AI/ML concentration beyond MATH 301?
+
+Assumptions:
+- Students are pursuing a CS major.
+- The provided catalog information is up-to-date and accurate.",0.424,6.76
+21,Is CS310 offered in Spring?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.02
+22,Who teaches CS310?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+- CS310_Programming_Languages.pdf (Page 0)
+  https://catalog.techstate.edu/courses/cs310
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",0.309,4.61
+23,What is the timetable for CS310?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
+24,Which professor is best for CS210?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.04
+25,What is placement rate after CS degree?,"Answer / Plan:
+I don’t have that information in the provided catalog.
+
+Why:
+The required information is not available in the retrieved documents.
+
+Citations:
+None
+
+Clarifying Questions:
+Could you provide more details about the course or requirement?
+
+Assumptions:
+Assuming the required information is not present in the catalog data.
+",,0.03
